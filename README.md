@@ -1,4 +1,7 @@
-# first_pytest_exercise
+# First Pytest Exercise: mean()
+
+[![Run on Repl.it](https://repl.it/badge/github/nickdelgrossofirst_pytest_exercise)](https://repl.it/github/nickdelgrosso/first_pytest_exercise)
+
 
 ## Goal
 
